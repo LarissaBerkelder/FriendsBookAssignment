@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj": {}
+    "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj": {
+    "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj",
+        "projectUniqueName": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj",
         "projectName": "FriendsBook.Android",
-        "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj",
+        "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj",
         "packagesPath": "C:\\Users\\laris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.Android\\obj\\",
+        "outputPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj": {
-                "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj"
+              "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj": {
+                "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj": {
+    "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj",
+        "projectUniqueName": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj",
         "projectName": "FriendsBook",
-        "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj",
+        "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj",
         "packagesPath": "C:\\Users\\laris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\obj\\",
+        "outputPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

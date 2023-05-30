@@ -1552,11 +1552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
       "projectName": "FriendsBook.iOS",
-      "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
+      "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
       "packagesPath": "C:\\Users\\laris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.iOS\\obj\\",
+      "outputPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1577,8 +1577,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj": {
-              "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj"
+            "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj": {
+              "projectPath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQ4rCpxHDRKCRpSsOUFkTKu92fV7ko8rUsCNzF1JLit3ywNWcBoqvdYee0Tb06+nLQt45LK3ONtygsgIEDA9tg==",
+  "dgSpecHash": "kZx8T+v67TjM5PRJyKqerUUmL+/tJ6bHo5mae9543qWN21bQIebvgDj66ZsSS26I9q9F4zOtpir97V0aIWKa3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook\\FriendsBook.csproj",
+  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook\\FriendsBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\laris\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

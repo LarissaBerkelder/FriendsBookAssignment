@@ -66,6 +66,7 @@ namespace FriendsBook.Views
                 {
                    Directory = "UserPictures",
                    Name = $"{friend.FirstName}{DateTime.UtcNow}.jpg",
+                    SaveToAlbum = true,
                    PhotoSize = PhotoSize.Medium,
                    CompressionQuality = 92
                 };
@@ -91,8 +92,26 @@ namespace FriendsBook.Views
 
         public async void PictureGalleryButton(object sender, EventArgs e)
         {
+
             if (CrossMedia.Current.IsPickPhotoSupported)
-                var photo = await CrossMedia.Current.PickPhotoAsync();
+            {
+
+                var file = await CrossMedia.Current.PickPhotoAsync();
+
+                if (file == null)
+                    return;
+
+                ImageUser.Source = ImageSource.FromStream(() =>
+                {
+                    var stream = file.GetStream();
+                    return stream;
+                });
+
+                SaveButton.IsVisible = true;
+
+                PicturePath = file.Path;
+
+            }
         }
 
         public async void SavePictureButton(object sender, EventArgs e)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEnx5vCX86BpdCaYu8UP2aXFuwFL6idvvuDjxOoxMxMaNAnUhWjUh/SKIkWuIR4KjBQuLxzJcMdwBTHP73I5Aw==",
+  "dgSpecHash": "g7xa0LvvvFo89jS5CANXNwjcLpeYKiJl9K9I+5CipqYap+gnNs6EZixbHgkd3NdgQZkzZhDaqKmK46su0/dUlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj",
+  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.Android\\FriendsBook.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laris\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\laris\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

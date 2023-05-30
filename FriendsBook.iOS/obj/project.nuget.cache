@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5iTNbuFRCHbcFL4sfkA8CNLdfzrdkgfEtmttNjp7NCB4qLIJdPogSDIYvH3kZw8TC/7eUNPlmRnBykAjrU0lzg==",
+  "dgSpecHash": "JGi07Xy/8XJzs8eg8Ax9Pfs551Qb16jNXP04w9WLT+HQkU3cU0GwE2EQa/tUYGN6X4+UKRD+lICpeNYnrIqfBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
+  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laris\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\laris\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
