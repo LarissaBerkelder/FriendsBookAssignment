@@ -1,11 +1,26 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "289c1534-3dcf-4cdb-86d7-aafe29bb041b": {
-      "ProjectGuid": "289c1534-3dcf-4cdb-86d7-aafe29bb041b",
+    "b0418642-fe44-4554-9ee2-11cf8ab8c791": {
+      "ProjectGuid": "b0418642-fe44-4554-9ee2-11cf8ab8c791",
       "DisplayName": "FriendsBook",
       "ColorIndex": 0
+    },
+    "2a58881f-9378-4b69-a9fd-19d26d3ac78a": {
+      "ProjectGuid": "2a58881f-9378-4b69-a9fd-19d26d3ac78a",
+      "DisplayName": "FriendsBook.iOS",
+      "ColorIndex": 1
+    },
+    "4d59241d-a9d2-4b30-a7e5-a208c8b94f7f": {
+      "ProjectGuid": "4d59241d-a9d2-4b30-a7e5-a208c8b94f7f",
+      "DisplayName": "FriendsBook.Android",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

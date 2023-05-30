@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FriendsBook.Views.FriendsEntryPage">
+
+    <ContentPage.Resources>
+        <Style TargetType="Frame">
+            <Setter Property="Margin" Value="0,10,0,10" />
+            <Setter Property="Padding" Value="0" />
+        </Style>
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Menu" Order="Primary" Priority="0" />
+        <ToolbarItem Text="Save friend" Order="Secondary" Priority="0" Clicked="OnSaveButtonClicked"/>
+        <ToolbarItem Text="Delete friend" Order="Secondary" Priority="0" Clicked="OnDeleteButtonClicked"/>
+        <ToolbarItem Text="Change picture" Order="Secondary" Priority="0" Clicked="OnPictureButtonClicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout
+        Margin="20,10,20,0">
+        
+        <Frame HorizontalOptions="CenterAndExpand"
+                   CornerRadius="50"
+                   BorderColor="Transparent"
+                   HeightRequest="120"
+                   WidthRequest="100"
+                   Padding="10">
+
+            <Frame Padding="0"
+                   CornerRadius="50">
+                <Image Source="{Binding ImageSource}"
+                   Aspect="AspectFill"
+                   x:Name="user_image"/>
+            </Frame>
+        </Frame>
+        
+        <Grid RowDefinitions="*,*,*">
+            
+            <Frame Grid.Row="0" >
+                <StackLayout>
+                    <Label Text="Enter first name"
+                           FontSize="Medium"/>
+                    <Entry Placeholder="First name"
+                           x:Name="entry_firstName"
+                           Text="{Binding FirstName}"
+                           HeightRequest="50"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame Grid.Row="1" >
+                <StackLayout>
+                    <Label Text="Enter last name"
+                           FontSize="Medium"/>
+                    <Entry Placeholder="Last name"
+                           x:Name="entry_lastName"
+                           Text="{Binding LastName}"
+                           HeightRequest="50"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame Grid.Row="2" >
+                <Grid RowDefinitions="*,*"
+                      ColumnDefinitions="*,*,*">
+                    <Label Grid.Row="0"
+                           Grid.ColumnSpan="3"
+                           Text="Enter birth date"
+                           FontSize="Medium"/>
+                    <Entry Grid.Row="1"
+                           Grid.Column="0"
+                           Placeholder="day"
+                           TextChanged="DayEntryChanged"
+                           x:Name="entry_day"/>
+                    <Entry Grid.Row="1"
+                           Grid.Column="1"
+                           Placeholder="month"
+                           TextChanged="MonthEntryChanged"
+                           x:Name="entry_month"/>
+                    <Entry Grid.Row="1"
+                           Grid.Column="2"
+                           Placeholder="year"
+                           TextChanged="YearEntryChanged"
+                           x:Name="entry_year"/>
+                </Grid>
+            </Frame>
+            
+        </Grid>
+
+        <!--<Grid ColumnDefinitions="*,*">
+            
+            <Button Grid.Column="0"
+                    Text="Save friend"
+                    Clicked="OnSaveButtonClicked"/>
+
+            <Button Grid.Column="1"
+                    Text="Delete friend"
+                    Clicked="OnDeleteButtonClicked"/>
+
+        </Grid>-->
+        
+    </StackLayout>
+    
+</ContentPage>

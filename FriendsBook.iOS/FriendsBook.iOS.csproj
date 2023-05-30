@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D0C11D7A-978B-464F-93D4-BEC248195BC4}</ProjectGuid>
+    <ProjectGuid>{2A58881F-9378-4B69-A9FD-19D26D3AC78A}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{89a4fe7c-635d-49c9-8d8c-5cd363c0d68d}</TemplateGuid>
     <OutputType>Exe</OutputType>
@@ -138,8 +138,11 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\FriendsBook\FriendsBook.csproj">
-      <Project>{17EB850E-67A0-409D-BFC0-2713ED86D730}</Project>
+      <Project>{A6AEAFA0-A584-48C0-B0A0-4F8325D735F3}</Project>
       <Name>FriendsBook</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\user.png" />
   </ItemGroup>
 </Project>

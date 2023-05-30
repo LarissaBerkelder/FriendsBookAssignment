@@ -1,5 +1,4 @@
-﻿using FriendsBook.ViewModels;
-using FriendsBook.Views;
+﻿using FriendsBook.Views;
 using System;
 using System.Collections.Generic;
 using Xamarin.Forms;
@@ -11,8 +10,8 @@ namespace FriendsBook
         public AppShell()
         {
             InitializeComponent();
-            Routing.RegisterRoute(nameof(ItemDetailPage), typeof(ItemDetailPage));
-            Routing.RegisterRoute(nameof(NewItemPage), typeof(NewItemPage));
+            Routing.RegisterRoute(nameof(FriendsEntryPage), typeof(FriendsEntryPage));
+            Routing.RegisterRoute(nameof(PictureSelectPage), typeof(PictureSelectPage));    
         }
 
     }

@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "H4SqwrFDgaUZp26yqERDnq/WeY6sa5kqSNmKlCJ0TGwAU38lPoQO7POjuWa7BR0h+3GfzazN9mwlHawKVYlyQQ==",
+  "dgSpecHash": "5iTNbuFRCHbcFL4sfkA8CNLdfzrdkgfEtmttNjp7NCB4qLIJdPogSDIYvH3kZw8TC/7eUNPlmRnBykAjrU0lzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\TI-CAD\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
+  "projectFilePath": "C:\\Users\\laris\\OneDrive\\Bureaublad\\CrossAppDevelopment\\FriendsBook\\FriendsBook.iOS\\FriendsBook.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\laris\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\laris\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\laris\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\laris\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\laris\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
